@@ -1,22 +1,22 @@
 # Hint of Green
-Jellyfin CSS Theme
+Jellyfin CSS Theme for Cinecraft
 
-Sort of my first try on a css template. When I first designed this template, I tried my best to design something new but familar. I wanted something that is different from the other masterpiece that the other wizards have created.
+Sort of my first try on a css template. When I first designed this template, I tried my best to design something new but familiar. I wanted something that is different from the other masterpiece that the other wizards have created.
 
 ## Tested on
 - Chrome, Firefox, Safari and common Jellyfin applications
 - Jellyfin 10.6 - 10.7.7
 
 ## Features
-- Colours are based on a popular template
-- Little spinkle of green everywhere, but never too much
+- Colors are based on a popular template
+- Little sprinkle of green everywhere, but never too much
 - Lighter theme for video playback (better if you see for yourself)
 - Disabled blurring on Safari (browser performance issues)
 - Better support for mobile devices
 - Works extremely beautiful with backdrop enabled
-- Some playful colouring at unexpected places (you will like it)
+- Some playful coloring at unexpected places (you will like it)
 
-This theme can be considered as heavy, but of course there some css will disable by itself if certain unfavourable conditions are met.
+This theme can be considered as heavy, but of course there some css will disable by itself if certain unfavorable conditions are met.
 
 ## Installation
 There will be two channels, one stable and one nightly. It is always ideal to use the stable version if you are deploying to a large amount of people. But if you like to be risky, feel free to use the nightly version. I will merge nightly into stable once I feel the nightly version is performing well enough.
