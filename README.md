@@ -23,12 +23,12 @@ There will be two channels, one stable and one nightly. It is always ideal to us
 Copy this code into Dashboard > General > Custom CSS
 #### Stable:
 ```css
-@import url('https://looi-wh.github.io/HintOfGreenCSS/theme.css');
+@import url('https://ld3z.github.io/CinecraftCSS/theme.css');
 ```
 or
 #### Tester/Nightly:
 ```css
-@import url('https://looi-wh.github.io/HintOfGreenCSS/themeNightly.css');
+@import url('https://ld3z.github.io/CinecraftCSS/themeNightly.css');
 ```
 
 ## To enable fanart/logo
